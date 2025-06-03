@@ -13,14 +13,14 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 
 - Portofolio Projects
   - Python
-    - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST)
-    - [Retail Store Analysis (Intermediate Level Data Analyst)](#Retail Store Analysis)
+    - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST-E-Commerce-Analysis)
+    - [Retail Store Analysis (Intermediate Level Data Analyst)](#Retail-Store-Analysis)
     
   - SQL
-    - [Chinook Music Player Library Data Exploration](#Chinook Music Library SQL Exploration).
-    - [Ecommerce Data Exploratory](#E-commerce Data Exploratory Analysis).
-    - [Sakila DVD Rental Store Data Exploration and Analysis](#Sakila DVD Rental Store Data Exploration).
-    - [Google BigQuery - Thelook Ecommerce](#Google BigQuery – TheLook Ecommerce)
+    - [Chinook Music Player Library Data Exploration](#Chinook-Music-Library-SQL-Exploration).
+    - [Ecommerce Data Exploratory](#E-commerce-Data-Exploratory-Analysis).
+    - [Sakila DVD Rental Store Data Exploration and Analysis](#Sakila-DVD-Rental-Store-Data-Exploration).
+    - [Google BigQuery - Thelook Ecommerce](#Google-BigQuery–TheLook-Ecommerce)
         
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)] 
  
@@ -35,7 +35,7 @@ This portfolio showcases the projects I've completed throughout my journey to be
 ---
 ##  Python Projects
 
-### OLIST E-Commerce Analysis
+###  OLIST E-Commerce Analysis
 **Code**: [Notebook File](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/OLIST%20E-Commerce%20Analysis.ipynb)
 
 **Objective**: Analyze OLIST's performance and identify major business challenges.
