@@ -113,24 +113,25 @@ Exploratory analysis using Google BigQuery on TheLook dataset to uncover pattern
 
 ---
 
-## ?? Education
+## Education
 
 **Universitas Sriwijaya**, Indralaya, South Sumatera  
 Bachelor’s Degree | 2012 – 2017
 
 ---
 
-## ?? Certificates
+##  Certificates
 
 - [Growia Education – Beginner Data Analyst Certificate](masukkan-link)
 - [Growia Education – Intermediate Data Analyst Certificate](masukkan-link)
 
 ---
 
-## ?? Contacts
+##  Contacts
 
-- ?? Email: rendysyaban0204@gmail.com  
-- ?? LinkedIn: [linkedin.com/in/rindipasmawisyaban](https://www.linkedin.com/in/rindipasmawisyaban/)
+-  Email: rendysyaban0204@gmail.com  
+-  LinkedIn: [linkedin.com/in/rindipasmawisyaban](https://www.linkedin.com/in/rindipasmawisyaban/)
+-  +62 853 8399 0915
 
 ---
 
