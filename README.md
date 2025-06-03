@@ -116,7 +116,8 @@ Exploratory analysis using Google BigQuery on TheLook dataset to uncover pattern
 ## Education
 
 **Universitas Sriwijaya**, Indralaya, South Sumatera  
-Bachelor’s Degree | 2012 – 2017
+Bachelor’s Degree in Animal Science | 2012 – 2017  
+[View Degree Certificate (Ijazah)](https://drive.google.com/file/d/1Fq44nU6VfxjdV7Kvy-sh2A3HHZJTAR-W/view?usp=sharing)
 
 ---
 
