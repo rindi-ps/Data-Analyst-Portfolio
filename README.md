@@ -112,6 +112,13 @@ Exploratory analysis using Google BigQuery on TheLook dataset to uncover pattern
 **Tools**: Google BigQuery
 
 ---
+##  Certificates
+
+- [Growia Education – Beginner Data Analyst Certificate](https://drive.google.com/file/d/1YQudPpjy48RU07eS3D3LFDnsDD2cKDrE/view?usp=sharing)
+- [Growia Education – Intermediate Data Analyst Certificate](https://drive.google.com/file/d/1ihr2_kuTRRTb0YaZdYt7b-WWWRulrMwb/view?usp=sharing)
+
+
+---
 
 ## Education
 
@@ -120,14 +127,17 @@ Bachelor’s Degree in Animal Science | 2012 – 2017
 [View Degree Certificate (Ijazah)](https://drive.google.com/file/d/1Fq44nU6VfxjdV7Kvy-sh2A3HHZJTAR-W/view?usp=sharing)
 
 ---
+## Work Experience
 
-##  Certificates
+**Supervisor – PT Malindo Feedmill Tbk**, Palembang, South Sumatera  
+*Jan 2017 – Dec 2022*  
+- Managed feedmill production and ensured compliance with quality standards.
+- Led a team of 10+ staff in daily operations and logistics.
+- Reported performance metrics and improvements directly to management.
 
-- [Growia Education – Beginner Data Analyst Certificate](https://drive.google.com/file/d/1YQudPpjy48RU07eS3D3LFDnsDD2cKDrE/view?usp=sharing)
-- [Growia Education – Intermediate Data Analyst Certificate](https://drive.google.com/file/d/1ihr2_kuTRRTb0YaZdYt7b-WWWRulrMwb/view?usp=sharing)
+📄 [Surat Pengalaman Kerja / Experience Letter](https://drive.google.com/file/d/1KnbQRifFh7ywHvnjxpUzFSDtdwnA023-/view?usp=sharing)
 
 ---
-
 ##  Contacts
 
 -  Email: rendysyaban0204@gmail.com  
