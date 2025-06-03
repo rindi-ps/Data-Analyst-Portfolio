@@ -13,8 +13,8 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 
 - Portofolio Projects
   - Python
-    - [Analyzing OLIST E-commerce Performance and Problems (Beginner Level Data Analyst)](#Analyzing-OLIST-Ecommerce-Performance-and-Problems).
-    - [Online Retail Store Data Analysis (Intermediate Level Data Analyst)](#Online-Retail-Store-Data-Analysis).
+    - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)]((https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/OLIST%20E-Commerce%20Analysis.ipynb)).
+    - [Retail Store Analysis (Intermediate Level Data Analyst)](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Analysis.ipynb).
     
   - SQL
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Player-Library-Data-Exploration).
