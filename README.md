@@ -20,7 +20,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
     - [Chinook Music Player Library Data Exploration](#Chinook-Music-Library-SQL-Exploration).
     - [Ecommerce Data Exploratory](#E-commerce-Data-Exploratory-Analysis).
     - [Sakila DVD Rental Store Data Exploration and Analysis](#Sakila-DVD-Rental-Store-Data-Exploration).
-    - [Google BigQuery - Thelook Ecommerce](#Google-Bigquery---TheLook-Ecommerce)
+    - [Google BigQuery - Thelook Ecommerce](#google-bigquery---thelook-ecommerce)
         
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)] 
  
