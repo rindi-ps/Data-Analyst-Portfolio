@@ -13,7 +13,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 
 - Portofolio Projects
   - Python
-    - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST E-Commerce Analysis)
+    - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST)
     - [Retail Store Analysis (Intermediate Level Data Analyst)](#Retail Store Analysis)
     
   - SQL
