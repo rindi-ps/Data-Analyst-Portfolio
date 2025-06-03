@@ -14,7 +14,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
   - [Python Projects](#python-projects)
   - [SQL Projects](#sql-projects)
   - [Tableau Dashboards](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)
-  - [Google Looker Studio Dashboards](google-looker-studio-dashboards](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE)
+  - [Google Looker Studio Dashboards](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
