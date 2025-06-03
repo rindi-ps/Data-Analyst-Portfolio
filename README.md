@@ -102,7 +102,7 @@ Analyzed Sakila DVD rental store data using more advanced SQL operations like LO
 
 ---
 
-### Google BigQuery – Thelook Ecommerce
+### Google BigQuery - Thelook Ecommerce
 **Code**: [BigQuery Project](masukkan link)
 
 **Description**:  
