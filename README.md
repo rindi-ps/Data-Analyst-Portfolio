@@ -1,78 +1,29 @@
-# Final Project – Data Analyst Bootcamp (Batch 31) by Growia
-## Author: Rindi Pasmawi Sya'ban
-### olist-sales-analysis 
+Data-Analyst-Portfolio
+---
+
+Hi, I'm **Rindi Pasmawi Sya'ban** 
+A data enthusiast with a background as a Production Supervisor and Agricultural Extension Worker, currently transitioning into the data analytics field.
+
+I have completed the **Beginner Data Analyst Certification** and am currently undergoing training at the **Intermediate level**. With hands-on experience in tools like Microsoft Excel, SQL, Python, Google Looker Studio, and Tableau, I am passionate about turning data into insights and driving decisions in industries such as **retail**, **agriculture**, and **manufacturing**.
 
 ---
 
-# Background
-Olist adalah platform e-commerce terkemuka di Brazil yang menghubungkan bisnis kecil dan menengah dengan platform e-commerce besar.
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Python Projects](#python-projects)
+  - [SQL Projects](#sql-projects)
+  - [Tableau Dashboards](#tableau-dashboards)
+  - [Google Looker Studio Dashboards](#google-looker-studio-dashboards)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 ---
 
-## 🧾 Dataset
-Dataset yang digunakan berasal dari [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Dataset ini berisi informasi tentang pesanan, produk, pelanggan, ulasan, dan pembayaran.
+##  About
+
+This portfolio showcases the projects I've completed throughout my journey to becoming a Data Analyst. Each project includes code, business objectives, methodology, tools used, and key insights discovered.
 
 ---
-
-## Objectives
-- Customer Demographic (Mengelompokkan pelanggan)
-- Order Behaviour (Menentukan pola pemesanan)
-- Review Customer (Mengukur tingkat kepuasan pelanggan berdasarkan ulasan yang diberikan)
-- Time Series Analysis (Menentukan tren penjualan berdasarkan periode waktu tertentu)
-
----
-
-## 🛠️ Tools & Library
-- Dbeaver
-- SQLite
-- Jupyter Notebook
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-
----
-
-# Exploratory Data Analysis
-## Customer Demografi
-- Kota dengan pelanggan terbanyak: Sao Paulo dan Rio de Janeiro 
-- Persebaran belum merata secara geografis
-## Perilaku Pemesanan
-- Sebagian besar customer hanya melakukan 1 kali pembelian.
-- Waktu pembelian tertinggi: bulan Agustus, Senin–Rabu, dan Sore hari - Malam hari.
-## Kualitas Produk & Layanan
-- Customer puas: skor review 4 dan 5 mendominasi.
-- Sekitar 12% customer memberi skor 1–2, menandakan ada area untuk perbaikan.
-## Kategori & Harga Produk
-- Produk murah lebih laris, menunjukkan customer sensitif harga.
-- Kategori yang meningkat tiap tahun: bad_bath_table, health_beauty, furniture_decor
-## Metode Pembayaran
-- Kartu kredit adalah metode paling populer.
-- Menunjukkan preferensi pada transaksi cepat dan fleksibel.
-
----
-
-# Recommendations/Suggestions
-## Retensi Customer
-- Pancing Repeat Order ke customer 1x transaksi.
-- Buat program loyalitas/reward untuk customer aktif.
-## Prioritas Target Pasar
-- Fokus ke wilayah dengan banyak customer.
-## Optimalisasi Momen Musiman
-- Maksimalkan momen seperti Adanya Lonjakan Pada Akhir Tahun 2017.
-- Persiapkan stok & logistik lebih awal.
-## Evaluasi Layanan
-- Analisis ulasan buruk untuk deteksi masalah produk/penjual.
-- Tingkatkan kontrol kualitas & layanan pelanggan.
-## Segmentasi Harga
-- Tambahkan produk terjangkau namun tetap berkualitas.
-- Fokus pada kategori populer
-- Tawarkan bundling atau upsell untuk tingkatkan transaksi.
-## Operasional & Pembayaran
-- Fokus pada jam/hari sibuk: Senin–Rabu, Sore hari - Malam hari.
-- Sediakan beragam metode pembayaran 
-
-
-
 
