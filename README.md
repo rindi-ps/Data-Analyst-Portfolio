@@ -103,7 +103,7 @@ Analyzed Sakila DVD rental store data using more advanced SQL operations like LO
 ---
 
 ### Google BigQuery - Thelook Ecommerce
-**Code**: [BigQuery Project](masukkan link)
+**Code**: [BigQuery Project](https://console.cloud.google.com/bigquery?inv=1&invt=AbzIug&project=citric-nova-446122-q0&ws=!1m4!1m3!8m2!1s1044457182834!2s0533d4432c0c4977a20abb94e83c35dc)
 
 **Description**:  
 Exploratory analysis using Google BigQuery on TheLook dataset to uncover patterns in sales, customers, and transactions.
