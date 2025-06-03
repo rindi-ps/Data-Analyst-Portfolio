@@ -13,7 +13,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 - [Portfolio Projects](#portfolio-projects)
   - [Python Projects](#python-projects)
   - [SQL Projects](#sql-projects)
-  - [Tableau Dashboards](#tableau-dashboards)
+  - [Tableau Dashboards](#[tableau-dashboards](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes))
   - [Google Looker Studio Dashboards](#google-looker-studio-dashboards)
 - [Education](#education)
 - [Certificates](#certificates)
