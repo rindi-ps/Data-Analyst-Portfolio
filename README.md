@@ -36,7 +36,7 @@ This portfolio showcases the projects I've completed throughout my journey to be
 ##  Python Projects
 
 ###  OLIST E-Commerce Analysis
-**Code**: [Notebook File](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/OLIST%20E-Commerce%20Analysis.ipynb)
+**Code**: [OLIST E-Commerce Analysis](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/OLIST%20E-Commerce%20Analysis.ipynb)
 
 **Objective**: Analyze OLIST's performance and identify major business challenges.
 
@@ -52,7 +52,7 @@ Discovered a **low customer retention issue**, with most new users making only a
 ---
 
 ### Retail Store Analysis
-**Code**: [Notebook File](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Analysis.ipynb)
+**Code**: [Retail Store Analysis](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Analysis.ipynb)
 
 **Objective**: Analyze sales performance in 2019 and provide strategic recommendations.
 
@@ -122,8 +122,8 @@ Bachelor’s Degree | 2012 – 2017
 
 ##  Certificates
 
-- [Growia Education – Beginner Data Analyst Certificate](masukkan-link)
-- [Growia Education – Intermediate Data Analyst Certificate](masukkan-link)
+- [Growia Education – Beginner Data Analyst Certificate](https://drive.google.com/drive/u/0/folders/1iyEJifY3AVm-InmzRrLEoRIuMDFhssSR)
+- [Growia Education – Intermediate Data Analyst Certificate]([masukkan-link](https://drive.google.com/drive/u/0/folders/1Ltrh0DyKVHkNLA1RY1RcqCyAct_ZPIpO))
 
 ---
 
