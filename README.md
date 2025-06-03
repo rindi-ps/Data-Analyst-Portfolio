@@ -123,7 +123,7 @@ Bachelor’s Degree | 2012 – 2017
 ##  Certificates
 
 - [Growia Education – Beginner Data Analyst Certificate](https://drive.google.com/file/d/1YQudPpjy48RU07eS3D3LFDnsDD2cKDrE/view?usp=sharing)
-- [Growia Education – Intermediate Data Analyst Certificate]([masukkan-link](https://drive.google.com/drive/u/0/folders/1Ltrh0DyKVHkNLA1RY1RcqCyAct_ZPIpO))
+- [Growia Education – Intermediate Data Analyst Certificate](https://drive.google.com/file/d/1ihr2_kuTRRTb0YaZdYt7b-WWWRulrMwb/view?usp=sharing)
 
 ---
 
