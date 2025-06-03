@@ -46,7 +46,7 @@ This project analyzes datasets from OLIST, a Brazilian e-commerce platform, cove
 **Key Insight**:  
 Discovered a **low customer retention issue**, with most new users making only a single order.
 
-**Skills**: EDA, time series, customer analysis, hypothesis testing, data visualization  
+**Skills**: EDA, time series, customer analysis, data visualization  
 **Tools**: Python, Pandas, Numpy, Seaborn, Matplotlib
 
 ---
@@ -57,13 +57,13 @@ Discovered a **low customer retention issue**, with most new users making only a
 **Objective**: Analyze sales performance in 2019 and provide strategic recommendations.
 
 **Description**:  
-Focused on product and customer segmentation using **RFM Analysis**, time series forecasting (ARIMA & Prophet), and seasonal patterns. The aim was to support marketing, inventory, and pricing strategies.
+Focused on product and customer segmentation using **RFM Analysis** and seasonal patterns. The aim was to support marketing, inventory, and pricing strategies.
 
 **Key Insight**:  
 Delivered SWOT analysis and strategic insights tailored for each business quarter.
 
-**Skills**: Data cleaning, segmentation, forecasting, visualization  
-**Tools**: Python, Pandas, Seaborn, K-Means, ARIMA, Prophet
+**Skills**: Data cleaning, segmentation, visualization  
+**Tools**: Python, Pandas, Seaborn, K-Means
 
 ---
 
