@@ -25,7 +25,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)] 
  
   - Google Looker Studio
-    [[Link 1 PT Tumbuh Bersama Dashboard]([[masukkan link](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE)] 
+    [[Link 1 PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE) 
 ---
 
 ##  About
