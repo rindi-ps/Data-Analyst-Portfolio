@@ -131,9 +131,8 @@ Bachelor’s Degree in Animal Science | 2012 – 2017
 
 **Supervisor – PT Malindo Feedmill Tbk**, Palembang, South Sumatera  
 *2017 – 2022*  
-- Managed feedmill production and ensured compliance with quality standards.
-- Led a team of 10+ staff in daily operations and logistics.
-- Reported performance metrics and improvements directly to management.
+- Analyzed production, mortality, and hatchery efficiency data to identify improvement areas.
+- Provided data-driven recommendations to enhance production processes and workforce efficiency.
 
 📄 [Surat Pengalaman Kerja / Experience Letter](https://drive.google.com/file/d/1KnbQRifFh7ywHvnjxpUzFSDtdwnA023-/view?usp=sharing)
 
