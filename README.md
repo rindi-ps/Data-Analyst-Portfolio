@@ -7,7 +7,61 @@ A data enthusiast with a background as a Production Supervisor and Agricultural 
 I have completed the Beginner and Intermediate levels of the Data Analyst Certification at Growia Bootcamp. With hands-on experience in tools like Microsoft Excel, SQL, Python, Google Looker Studio, and Tableau, I am passionate about turning data into insights and driving decisions in industries such as **retail**, **agriculture**, and **manufacturing**.
 
 ---
+
+## Modules & Skills Learned
+During my learning journey at Growia, I explored both technical and business-oriented skills through the following modules:
+
+### Introduction to Data Analysis
+- Learned about the data-driven mindset, analysis workflow, and the role of a Data Analyst in supporting decision-making through data.
+
+### Key Business Metrics
+- Gained understanding of essential business metrics such as Revenue, Conversion Rate, and Customer Retention, along with their business implications.
+
+### Statistics for Data Analysis
+- Studied descriptive statistics, data distribution, and how to apply statistical concepts to support business decisions.
+
+### Data Analysis with Excel
+- Processed and analyzed data using Pivot Tables, IF statements, LOOKUP functions, and created visualizations with charts.
+
+### SQL and Database
+- Performed data queries using SELECT, JOIN, CTE, Aggregation, Filtering, HAVING, and Subqueries.
+
+### SQL with Google BigQuery
+- Explored large datasets in the cloud, merged multiple tables, and derived insights using BigQuery.
+
+### Python Programming
+- Covered the basics of Python, data manipulation with Pandas, visualization with Matplotlib and Seaborn, and conducted time series analysis.
+
+### Data Visualization with Google Looker Studio
+- Designed interactive dashboards with filters, charts, and KPIs to deliver visual insights effectively.
+
+### Visualization with Tableau
+- Built interactive and exploratory dashboards, utilizing features like parameters, filters, and calculated fields.
+
+### Practical Data Analytics for Marketing and Sales
+- Worked on real business cases such as customer funnel analysis, customer segmentation using RFM and K-Means Clustering, and basket size analysis.
+
+### Final Project & Portfolio Development
+Integrated all the acquired skills to complete a comprehensive analysis project—from data cleaning to business insights and presentation.
+
+---
+## Challenges & Solutions
+Throughout the project development, I encountered several challenges and tackled them as follows:
+
+### Messy and inconsistent data
+→ I addressed this by performing thorough data cleaning using Pandas, including handling missing values, duplicates, and outliers.
+
+### Large dataset and complex SQL queries
+→ Solved by using Common Table Expressions (CTEs) to make SQL queries more modular, organized, and easier to maintain.
+
+### Interpreting insights in a relevant business context
+→ I trained myself to always align analysis outcomes with business objectives and deliver actionable recommendations.
+
+### Ineffective data visualizations
+→ Resolved by choosing the right chart types, applying proper color schemes and labels to ensure insights are easily understood by non-technical stakeholders.
 ## Table of Contents
+
+---
 
 - [About](#About)
 
@@ -25,12 +79,12 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)] 
  
   - Google Looker Studio
-    [[Link PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE) 
+    [(Link PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE)] 
 ---
 
 ##  About
 
-This portfolio showcases the projects I've completed throughout my journey to becoming a Data Analyst. Each project includes code, business objectives, methodology, tools used, and key insights discovered.
+This portfolio highlights the projects I have completed throughout my journey to becoming a Data Analyst at Growia Bootcamp. Each project provides an overview of the code, business objectives, methodology, tools utilized, and key insights uncovered.
 
 ---
 ##  Python Projects
@@ -38,7 +92,7 @@ This portfolio showcases the projects I've completed throughout my journey to be
 ###  OLIST E-Commerce Analysis
 **Code**: [OLIST E-Commerce Analysis](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/OLIST%20E-Commerce%20Analysis.ipynb)
 
-**Objective**: Analyze OLIST's performance and identify major business challenges.
+**Objective**: Analyze OLIST's marketplace performance in Brazil and identify key business challenges to improve customer understanding and sales growth.
 
 **Description**:  
 This project analyzes datasets from OLIST, a Brazilian e-commerce platform, covering the 2016–2018 period. The workflow included data merging, cleansing, enrichment (adding time-based columns), customer demographics and behavior analysis, customer review patterns, and time series trends.
