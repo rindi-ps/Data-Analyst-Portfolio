@@ -25,7 +25,7 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
   - Tableau [[link to Tableau Vizzes](https://public.tableau.com/app/profile/rindi.pasmawi.syaban/vizzes)] 
  
   - Google Looker Studio
-    [[Link 1 PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE) 
+    [[Link PT Tumbuh Bersama Dashboard](https://lookerstudio.google.com/u/0/reporting/d7b930fb-8142-48bc-af27-dad4cefd1178/page/oCczE) 
 ---
 
 ##  About
@@ -124,7 +124,6 @@ Exploratory analysis using Google BigQuery on TheLook dataset to uncover pattern
 
 **Universitas Sriwijaya**, Indralaya, South Sumatera  
 Bachelor’s Degree in Animal Science | 2012 – 2017  
-[View Degree Certificate (Ijazah)](https://drive.google.com/file/d/1Fq44nU6VfxjdV7Kvy-sh2A3HHZJTAR-W/view?usp=sharing)
 
 ---
 ## Work Experience
@@ -134,7 +133,10 @@ Bachelor’s Degree in Animal Science | 2012 – 2017
 - Analyzed production, mortality, and hatchery efficiency data to identify improvement areas.
 - Provided data-driven recommendations to enhance production processes and workforce efficiency.
 
-📄 [Surat Pengalaman Kerja / Experience Letter](https://drive.google.com/file/d/1KnbQRifFh7ywHvnjxpUzFSDtdwnA023-/view?usp=sharing)
+**Agricultural Field Assistant** – Department of Agriculture, South Bengkulu Regency, Bengkulu, Indonesia
+**July 2024 – December 2024**
+- Collected and mapped smallholder oil palm plantations using spatial and tabular data analysis.
+- Coordinated with farmers, agricultural advisors, and government agencies for data validation and program implementation.
 
 ---
 ##  Contacts
