@@ -123,7 +123,7 @@ Conducted comprehensive exploratory data analysis on TheLook eCommerce dataset u
 ## Education
 
 **Universitas Sriwijaya**, Indralaya, South Sumatera  
-Bachelor’s Degree in Animal Science | 2012 – 2017  
+Bachelor’s Degree in Animal Science | *2012 – 2017*  
 
 ---
 ## Work Experience
@@ -134,7 +134,7 @@ Bachelor’s Degree in Animal Science | 2012 – 2017
 - Provided data-driven recommendations to enhance production processes and workforce efficiency.
 
 **Agricultural Field Assistant** – Department of Agriculture, South Bengkulu Regency, Bengkulu, Indonesia
-**July 2024 – December 2024**
+*July 2024 – December 2024*
 - Collected and mapped smallholder oil palm plantations using spatial and tabular data analysis.
 - Coordinated with farmers, agricultural advisors, and government agencies for data validation and program implementation.
 
