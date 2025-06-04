@@ -54,15 +54,15 @@ Discovered a **low customer retention issue**, with most new users making only a
 ### Retail Store Analysis
 **Code**: [Retail Store Analysis](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Retail%20Store%20Analysis.ipynb)
 
-**Objective**: Analyze sales performance in 2019 and provide strategic recommendations.
+**Objective**: Analyze customer behavior and product performance in 2019 to support data-driven business strategies for segmentation, marketing, and revenue growth.
 
 **Description**:  
-Focused on product and customer segmentation using **RFM Analysis** and seasonal patterns. The aim was to support marketing, inventory, and pricing strategies.
+This project focused on customer and product segmentation through RFM Analysis, Average Basket Size (ABS) evaluation, and monthly revenue trends. The goal was to uncover patterns in customer contribution, product popularity, seasonal peaks, and geographic concentration to generate targeted strategic recommendations.
 
 **Key Insight**:  
-Delivered SWOT analysis and strategic insights tailored for each business quarter.
+Identified Potential Loyalists as the top revenue segment, emphasized Q4 as peak sales period, highlighted UK as the core market, and recommended personalized, seasonal, and loyalty-based strategies across customer segments to boost ABS and retention.
 
-**Skills**: Data cleaning, segmentation, visualization  
+**Skills**: Data cleaning, customer segmentation, basket size analysis, business insight generation, strategy design
 **Tools**: Python, Pandas, Seaborn, K-Means
 
 ---
@@ -73,9 +73,9 @@ Delivered SWOT analysis and strategic insights tailored for each business quarte
 **Code**: [SQL Script](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Chinook%20Music%20Player%20Library%20Data%20Exploration.sql)
 
 **Description**:  
-Exploratory analysis of the Chinook music database using SQL queries. Covered filtering, aggregation, sorting, JOINs, CTEs, and set operations.
+Exploratory analysis of the Chinook music database using SQL covered filtering, aggregation, aliasing, JOINs, CTEs, set operations, and business-focused queries like top spenders, domestic vs. foreign customers, and purchasing patterns in 2011.
 
-**Skills**: SQL querying, relational database exploration  
+**Skills**: SQL querying, filtering, aggregation, aliasing, JOINs, CTEs, set operations, and business insights generation.  
 **Tools**: DBeaver
 
 ---
@@ -84,9 +84,9 @@ Exploratory analysis of the Chinook music database using SQL queries. Covered fi
 **Code**: [SQL Script](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Ecommerce%20Data%20Exploratory.sql)
 
 **Description**:  
-Performed multiple analytical tasks on e-commerce datasets including JOINs, HAVING clauses, CTEs, and complex filtering to identify sales trends and employee performance.
+Conducted exploratory analysis using SQL to identify top-priced products, high-performing sales reps, most active cities by orders, and average basket size by city—both in value and units—using JOINs, CTEs, aggregations, and HAVING clauses.
 
-**Skills**: Filtering, JOINs, CTEs, logic-based queries  
+**Skills**: Data exploration,  Filtering, JOINs, CTE, aggregation, logic-based querying  
 **Tools**: DBeaver
 
 ---
@@ -95,9 +95,9 @@ Performed multiple analytical tasks on e-commerce datasets including JOINs, HAVI
 **Code**: [SQL Script](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/Sakila%20DVD%20Rental%20Store%20Data%20Exploration%20%26%20Analysis.sql)
 
 **Description**:  
-Analyzed Sakila DVD rental store data using more advanced SQL operations like LOWER, CONCAT, WILDCARDS, nested queries, and complex joins.
+Performed advanced SQL analysis on the Sakila DVD rental database, utilizing string manipulation (e.g., LOWER, CONCAT), pattern matching with LIKE, aggregation, filtering with HAVING, CTEs, and multi-table joins to uncover business insights such as top-performing genres and customer spending patterns.
 
-**Skills**: String manipulation, advanced joins, pattern matching  
+**Skills**: Advanced SQL querying, string functions, pattern matching, aggregation, complex joins, CTEs, and business data analysis.  
 **Tools**: DBeaver
 
 ---
@@ -106,9 +106,9 @@ Analyzed Sakila DVD rental store data using more advanced SQL operations like LO
 **Code**: [BigQuery Project](https://console.cloud.google.com/bigquery?inv=1&invt=AbzIug&project=citric-nova-446122-q0&ws=!1m4!1m3!8m2!1s1044457182834!2s0533d4432c0c4977a20abb94e83c35dc)
 
 **Description**:  
-Exploratory analysis using Google BigQuery on TheLook dataset to uncover patterns in sales, customers, and transactions.
+Conducted comprehensive exploratory data analysis on TheLook eCommerce dataset using Google BigQuery. Tasks included data profiling, joining multiple tables (orders, products, users, order items), using CTEs for structured queries, filtering by customer demographics, analyzing sales by country and traffic source, and identifying completed transactions and product distribution patterns.
 
-**Skills**: BigQuery SQL, dataset exploration  
+**Skills**: BigQuery SQL, data exploration, table joins, CTEs, aggregation, filtering, customer & product analysis, traffic source analysis.  
 **Tools**: Google BigQuery
 
 ---
