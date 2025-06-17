@@ -15,7 +15,7 @@ During my learning journey at Growia, I explored both technical and business-ori
 - Learned about the data-driven mindset, analysis workflow, and the role of a Data Analyst in supporting decision-making through data.
 
 ### Key Business Metrics
-- Gained understanding of essential business metrics such as Revenue, Conversion Rate, and Customer Retention, along with their business implications.
+- Gained understanding of essential business metrics such as Revenue, Conversion Rate, and Return On Investment, along with their business implications.
 
 ### Statistics for Data Analysis
 - Studied descriptive statistics, data distribution, and how to apply statistical concepts to support business decisions.
