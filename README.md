@@ -11,35 +11,45 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 ## Modules & Skills Learned
 During my learning journey at Growia, I explored both technical and business-oriented skills through the following modules:
 
-### Introduction to Data Analysis
-- Learned about the data-driven mindset, analysis workflow, and the role of a Data Analyst in supporting decision-making through data.
+### Introduction to Data Analysis  
+Developed a strong foundation in the data analysis workflow, understanding the distinct roles within a data team (Data Engineer, Data Analyst, Data Scientist, and Machine Learning Engineer).  
+Learned to identify the needs of various industries—including Retail, Finance, and Creative sectors—for data analysis in decision-making.  
+Gained insight into key responsibilities of a Data Analyst, such as exploring business questions, working with structured data, generating insights, and presenting findings through effective data visualization.  
+Acquired essential skills, including programming (Python, SQL), data visualization, critical thinking, business acumen, and communication.  
 
 ### Key Business Metrics
-- Gained understanding of essential business metrics such as Revenue, Conversion Rate, and Return On Investment, along with their business implications.
+- Learned to differentiate between business metrics and Key Performance Indicators (KPIs), and how to align them with business goals. Studied key metrics across departments (Marketing, Supply Chain, HR, etc.), and how to measure customer satisfaction, employee performance, and financial health using industry-standard KPIs.
+Explored the four stages of analytics (descriptive, diagnostic, predictive, prescriptive), with a focus on descriptive and diagnostic analytics relevant to Data Analysts.
+Practiced identifying relevant metrics for various professions and applied tools such as Tableau, Google Data Studio, and Power BI to monitor KPIs more effectively than traditional tools like Excel.
 
 ### Statistics for Data Analysis
-- Studied descriptive statistics, data distribution, and how to apply statistical concepts to support business decisions.
+- Studied descriptive statistics such as measures of central tendency (mean, median, mode) and data dispersion (range, variance, standard deviation, IQR).
+Learned how to analyze and interpret data distributions, including boxplots and pairplots, and applied statistical concepts to support business decision-making.
 
-### Data Analysis with Excel
-- Processed and analyzed data using Pivot Tables, IF statements, LOOKUP functions, and created visualizations with charts.
+### Data Analysis with Excel  
+Learned essential Excel features to support data analysis, including data cleaning, formatting, and formula-based calculations.  
+Applied **text functions** (e.g., LEFT, RIGHT, MID, CONCAT), **mathematical functions** (e.g., SUM, AVERAGE, ROUND), **logical functions** (e.g., IF, AND, OR), and **lookup functions** (e.g., VLOOKUP, HLOOKUP).  
+Built Pivot Tables and visualizations to summarize insights and communicate findings effectively.
 
-### SQL and Database
-- Performed data queries using SELECT, JOIN, CTE, Aggregation, Filtering, HAVING, and Subqueries.
+### SQL and Database  
+Learned the fundamentals of SQL including basic queries (SELECT, WHERE, ORDER BY), joins, aggregations, and subqueries.  
+Applied SQL skills to solve real business cases by extracting insights from structured datasets using relational databases.
 
-### SQL with Google BigQuery
-- Explored large datasets in the cloud, merged multiple tables, and derived insights using BigQuery.
+### SQL with Google BigQuery  
+Learned the fundamentals of BigQuery, including its structure, syntax, and setup for large-scale data analysis.  
+Performed data extraction and transformation using SQL queries with **SELECT, JOIN, CTEs, Aggregation, Filtering, HAVING**, and **Subqueries** on cloud-based datasets.
 
-### Python Programming
-- Covered the basics of Python, data manipulation with Pandas, visualization with Matplotlib and Seaborn, and conducted time series analysis.
+### Python Programming  
+Learned the fundamentals of Python including variables, data types, loops, and functions. Explored essential libraries such as Pandas for data manipulation and Matplotlib/Seaborn for basic data visualization.
 
 ### Data Visualization with Google Looker Studio
-- Designed interactive dashboards with filters, charts, and KPIs to deliver visual insights effectively.
+- Learned the fundamentals of data visualization, including its purpose, best practices, and how to choose effective chart types based on data context.
 
 ### Visualization with Tableau
 - Built interactive and exploratory dashboards, utilizing features like parameters, filters, and calculated fields.
 
-### Practical Data Analytics for Marketing and Sales
-- Worked on real business cases such as customer funnel analysis, customer segmentation using RFM and K-Means Clustering, and basket size analysis.
+### Practical Data Analytics for Marketing and Sales  
+Applied data analytics to marketing scenarios, including customer acquisition funnel analysis and customer segmentation using RFM and K-Means clustering methods.
 
 ### Final Project & Portfolio Development
 Integrated all the acquired skills to complete a comprehensive analysis project—from data cleaning to business insights and presentation.
