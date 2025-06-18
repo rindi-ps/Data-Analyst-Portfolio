@@ -58,17 +58,18 @@ I have completed the Beginner and Intermediate levels of the Data Analyst Certif
 ## Challenges & Solutions
 Throughout the project development, I encountered several challenges and tackled them as follows:
 
-### Messy and inconsistent data
+### Dataset is not clean
 → I addressed this by performing thorough data cleaning using Pandas, including handling missing values, duplicates, and outliers.
 
-### Large dataset and complex SQL queries
-→ Solved by using Common Table Expressions (CTEs) to make SQL queries more modular, organized, and easier to maintain.
+### Challenge in Learning SQL: Mastering JOINs, CTEs, and Data Relationships
+→ One of the biggest challenges in learning SQL is understanding how different tables are connected. I had to truly grasp the use of JOINs—starting from INNER JOIN, LEFT JOIN, to FULL OUTER JOIN—and ensure that each row of data matches correctly. On top of that, writing CTEs (Common Table Expressions) required layered logic to keep queries efficient and readable. Turning raw data into insight is not just about writing queries, but also about understanding data relationships and thinking like a 'data detective'—searching for pieces of information from multiple sources.
 
 ### Interpreting insights in a relevant business context
 → I trained myself to always align analysis outcomes with business objectives and deliver actionable recommendations.
 
 ### Ineffective data visualizations
 → Resolved by choosing the right chart types, applying proper color schemes and labels to ensure insights are easily understood by non-technical stakeholders.
+
 ## Table of Contents
 
 ---
