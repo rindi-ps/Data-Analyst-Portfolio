@@ -79,6 +79,7 @@ Throughout the project development, I encountered several challenges and tackled
 - Portofolio Projects
   - Microsoft Excel Projects
     - [PT. Tumbuh Bersama – Sales Performance Analysis](#PT.-Tumbuh-Bersama-–-Sales-Performance-Analysis)
+      
   - Python
     - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST-E-Commerce-Analysis)
     - [Retail Store Analysis (Intermediate Level Data Analyst)](#Retail-Store-Analysis)
@@ -102,18 +103,18 @@ This portfolio highlights the projects I have completed throughout my journey to
 ---
 ## Microsoft Excel Projects
 ### PT. Tumbuh Bersama Sales Performance Analysis
-Code: Excel Sales Report – PT. Tumbuh Bersama
+**Code**: [Excel Sales Report – PT. Tumbuh Bersama](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/PT.%20Tumbuh%20Bersama%20Sales%20Performance%20Analysis.xlsx)
 
-Objective:
+**Objective**:
 Analyze the 2011 annual sales performance of PT. Tumbuh Bersama to uncover trends in revenue, product popularity, market distribution, and source effectiveness, and to generate strategic recommendations for business growth.
 
-Description:
+**Description**:
 This project utilized Microsoft Excel to assess monthly revenue patterns, identify top-selling products, analyze sales by country and marketing source, and deliver actionable insights. The analysis revealed seasonal fluctuations, product performance rankings, and market expansion opportunities across different regions and channels.
 
-Key Insight:
+**Key Insight**:
 May and June were peak months, while February and October saw low performance. United Kingdom led in total revenue, Instagram Paids was the most effective marketing source, and three key products contributed significantly to total sales. Strategic recommendations included promotional campaigns during low months, focusing on best-selling products, and reallocating marketing budgets toward high-performing channels.
 
-Skills: Excel formulas, pivot tables, data visualization, sales trend analysis, business insight generation
+**Skills**: Excel formulas, pivot tables, data visualization, sales trend analysis, business insight generation
 Tools: Microsoft Excel
 
 ---
@@ -206,7 +207,7 @@ Conducted comprehensive exploratory data analysis on TheLook eCommerce dataset u
 
 ## Education
 
-**Universitas Sriwijaya**, Indralaya, South Sumatera  
+**Sriwijaya University**, Indralaya, South Sumatra  
 Bachelor’s Degree in Animal Science | *2012 – 2017*  
 
 ---
