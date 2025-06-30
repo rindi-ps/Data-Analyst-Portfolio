@@ -78,7 +78,7 @@ Throughout the project development, I encountered several challenges and tackled
 
 - Portofolio Projects
   - Microsoft Excel Projects
-    - [PT. Tumbuh Bersama – Sales Performance Analysis](#PT.-Tumbuh-Bersama-–-Sales-Performance-Analysis)
+    - [PT. Tumbuh Bersama – Sales Performance Analysis](#PT.-Tumbuh-Bersama-Sales-Performance-Analysis)
       
   - Python
     - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST-E-Commerce-Analysis)
