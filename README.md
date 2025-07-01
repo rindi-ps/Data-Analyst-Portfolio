@@ -103,7 +103,7 @@ This portfolio highlights the projects I have completed throughout my journey to
 ---
 ## Microsoft Excel Projects
 ### PT Tumbuh Bersama Sales Performance Analysis
-**Code**: [Excel Sales Report – PT. Tumbuh Bersama](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/PT.%20Tumbuh%20Bersama%20Sales%20Performance%20Analysis.xlsx)
+**Code**: [PT Tumbuh Bersama Sales Performance Analysis](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/PT.%20Tumbuh%20Bersama%20Sales%20Performance%20Analysis.xlsx)
 
 **Objective**:
 Analyze the 2011 annual sales performance of PT Tumbuh Bersama to uncover trends in revenue, product popularity, market distribution, and source effectiveness, and to generate strategic recommendations for business growth.
