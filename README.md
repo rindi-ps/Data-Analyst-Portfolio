@@ -78,7 +78,7 @@ Throughout the project development, I encountered several challenges and tackled
 
 - Portofolio Projects
   - Microsoft Excel Projects
-    - [PT. Tumbuh Bersama Sales Performance Analysis](#PT.-Tumbuh-Bersama-Sales-Performance-Analysis)
+    - [PT Tumbuh Bersama Sales Performance Analysis](#PT-Tumbuh-Bersama-Sales-Performance-Analysis)
       
   - Python
     - [OLIST E-Commerce Analysis (Beginner Level Data Analyst)](#OLIST-E-Commerce-Analysis)
@@ -102,11 +102,11 @@ This portfolio highlights the projects I have completed throughout my journey to
 
 ---
 ## Microsoft Excel Projects
-### PT. Tumbuh Bersama Sales Performance Analysis
+### PT Tumbuh Bersama Sales Performance Analysis
 **Code**: [Excel Sales Report – PT. Tumbuh Bersama](https://github.com/rindi-ps/Data-Analyst-Portfolio/blob/main/PT.%20Tumbuh%20Bersama%20Sales%20Performance%20Analysis.xlsx)
 
 **Objective**:
-Analyze the 2011 annual sales performance of PT. Tumbuh Bersama to uncover trends in revenue, product popularity, market distribution, and source effectiveness, and to generate strategic recommendations for business growth.
+Analyze the 2011 annual sales performance of PT Tumbuh Bersama to uncover trends in revenue, product popularity, market distribution, and source effectiveness, and to generate strategic recommendations for business growth.
 
 **Description**:
 This project utilized Microsoft Excel to assess monthly revenue patterns, identify top-selling products, analyze sales by country and marketing source, and deliver actionable insights. The analysis revealed seasonal fluctuations, product performance rankings, and market expansion opportunities across different regions and channels.
