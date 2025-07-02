@@ -3,6 +3,7 @@ Data-Analyst-Portfolio
 
 Hi, I'm **Rindi Pasmawi Sya'ban** 
 Animal Science graduate with hands-on experience in scientific research and statistical data analysis using SPSS. Over 5 years of experience as a Hatchery Supervisor, which strengthened a solid understanding of operational business processes. Currently transitioning into the Data Analyst field, with certifications at the Beginner and Intermediate levels. Proficient in SQL, Python, Excel, Tableau, and Looker Studio. Skilled in statistical analysis, data storytelling, and generating business insights to support data-driven decision-making.
+
 ---
 
 ## Modules & Skills Learned
