@@ -2,10 +2,7 @@ Data-Analyst-Portfolio
 ---
 
 Hi, I'm **Rindi Pasmawi Sya'ban** 
-A data enthusiast with a background as a Production Supervisor and Agricultural Extension Worker, currently transitioning into the data analytics field.
-
-I have completed the Beginner and Intermediate levels of the Data Analyst Certification at Growia Bootcamp. With hands-on experience in tools like Microsoft Excel, SQL, Python, Google Looker Studio, and Tableau, I am passionate about turning data into insights and driving decisions in industries such as **retail**, **agriculture**, and **manufacturing**.
-
+Animal Science graduate with hands-on experience in scientific research and statistical data analysis using SPSS. Over 5 years of experience as a Hatchery Supervisor, which strengthened a solid understanding of operational business processes. Currently transitioning into the Data Analyst field, with certifications at the Beginner and Intermediate levels. Proficient in SQL, Python, Excel, Tableau, and Looker Studio. Skilled in statistical analysis, data storytelling, and generating business insights to support data-driven decision-making.
 ---
 
 ## Modules & Skills Learned
@@ -191,7 +188,7 @@ Performed advanced SQL analysis on the Sakila DVD rental database, utilizing str
 **Code**: [BigQuery Project](https://console.cloud.google.com/bigquery?inv=1&invt=AbzIug&project=citric-nova-446122-q0&ws=!1m4!1m3!8m2!1s1044457182834!2s0533d4432c0c4977a20abb94e83c35dc)
 
 **Description**:  
-Conducted comprehensive exploratory data analysis on TheLook eCommerce dataset using Google BigQuery. Tasks included data profiling, joining multiple tables (orders, products, users, order items), using CTEs for structured queries, filtering by customer demographics, analyzing sales by country and traffic source, and identifying completed transactions and product distribution patterns.
+Conducted comprehensive exploratory data analysis on TheLook Ecommerce dataset using Google BigQuery. Tasks included data profiling, joining multiple tables (orders, products, users, order items), using CTEs for structured queries, filtering by customer demographics, analyzing sales by country and traffic source, and identifying completed transactions and product distribution patterns.
 
 **Skills**: BigQuery SQL, data exploration, table joins, CTEs, aggregation, filtering, customer & product analysis, traffic source analysis.  
 **Tools**: Google BigQuery
