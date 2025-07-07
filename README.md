@@ -11,7 +11,7 @@ I transform raw data into meaningful insights through statistical analysis, data
 
 ##  Featured Projects
 
-### 🛒 OLIST E-Commerce Analysis  
+### OLIST E-Commerce Analysis  
 **Objective**: Analyze marketplace data (Brazil, 2016–2018) to improve customer retention.  
 **Highlight**: Identified low repeat purchase rate; recommended segmentation strategies.  
 [View Project](#OLIST-E-Commerce-Analysis)
