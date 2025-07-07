@@ -148,7 +148,7 @@ Conducted comprehensive exploratory data analysis on TheLook Ecommerce dataset u
 ---
 
 ## Challenges I Overcame
-- **Messy, incomplete data** → Cleaned with Pandas: handle nulls, outliers, duplicates.  
+- **Messy, Missing data** → Cleaned with Pandas: handle nulls, outliers, duplicates.  
 - **Complex SQL JOINs & CTEs** → Practiced across real business cases until fluent.  
 - **Poor visual storytelling** → Improved with better chart choices & business context.  
 - **Interpreting business needs** → Trained to always align insights with objectives.
