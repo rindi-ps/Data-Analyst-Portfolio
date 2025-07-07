@@ -16,7 +16,7 @@ I transform raw data into meaningful insights through statistical analysis, data
 **Highlight**: Identified low repeat purchase rate; recommended segmentation strategies.  
 [View Project](#OLIST-E-Commerce-Analysis)
 
-###  Retail Store Customer Segmentation  
+### Retail Store Customer Segmentation  
 **Objective**: Segment customers & products via RFM and basket size.  
 **Highlight**: Revealed Potential Loyalists as top segment; Q4 was peak season.  
 [View Project](#Retail-Store-Analysis)
